@@ -7,7 +7,7 @@ import (
 
 func main() {
 
-	const firstMessage = "First Hello World examples on GIT"
+	const firstMessage = "First Hello World examples on GIT 2"
 
 	fmt.Println(firstMessage)
 	fmt.Println(stringutil.Reverse(firstMessage))
