@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("<h1>Ana are mere</h1>")
+	fmt.Println("First Hello World examples on GIT")
 }
